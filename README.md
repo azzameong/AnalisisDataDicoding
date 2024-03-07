@@ -1,10 +1,25 @@
-Projek Akhir Analisis Data
-by : Azza Annathifa
+# Projek Akhir Analisis Data
 
-Setup environmennt 
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
+## Deskripsi
+Projek Analisis Penyewa Sepeda by : Azza Annathifa
 
-Run steamlit app
-python -m streamlit run dashboardAzza.py 
+## Setup Environment
+
+1. Buat lingkungan baru menggunakan conda:
+    ```
+    conda create --name main-ds python=3.9
+    ```
+2. Aktifkan lingkungan yang baru dibuat:
+    ```
+    conda activate main-ds
+    ```
+3. Library yg diperlukan:
+    ```
+    pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
+    ```
+
+## Menjalankan Aplikasi Streamlit
+Untuk menjalankan aplikasi Streamlit, gunakan perintah berikut:
+   ```
+    python -m streamlit run dashboardAzza.py 
+   ```
