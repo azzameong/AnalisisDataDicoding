@@ -21,5 +21,5 @@ Projek Analisis Penyewa Sepeda by : Azza Annathifa
 ## Menjalankan Aplikasi Streamlit
 Untuk menjalankan aplikasi Streamlit, gunakan perintah berikut:
    ```
-    python -m streamlit run dashboard.py 
+    streamlit run dashboard.py  
    ```
